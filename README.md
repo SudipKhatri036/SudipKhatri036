@@ -14,15 +14,27 @@ I'm passionate about coding and started with HTML, CSS, and JavaScript. Now, I'm
 
 ## Projects
 
-1. **Project 1: [Advice Generator]**
-   - Advice gereator  website which shows different advice after clicking button. This project is from frontendmentor challenge section.
-   - Site live url [https://advicegeneratorfrontendmentor.netlify.app/]
-   - Technologies: HTML, CSS, JavaScript, API
-
-2. **Project 2: [Tip Calculator App]**
-   - Tip calculator app which can be used for calculating tip acording to user requirement . This project is also from Frontendmentor challenge project which helped me to practice.
-   - Site live url [https://frontendmentortipcalculatorapp.netlify.app]
+1. **Project 1: [Blogr Landing Page]**
+   - Blogr landing page which is responsive in all devices with responsive navbar and good looking UI. This project is from frontendmentor challenge section.
+   - Site live url [https://blogr-landingpage-frontend.netlify.app/]
    - Technologies: HTML, CSS, JavaScript
+
+2. **Project 2: [Github User Search App]**
+   - Github user search app React project in which user can search for github users using their username see error state loading state light and dark mode with user preference. This project is from Frontendmentor challenge.
+   - Site live url [https://githubusersearchapp.netlify.app/]
+   - Technologies: React, React-icons, Fetch, Github Rest api
+     
+3. **Project 3: [Job listing]**
+   - Job Listing project in which user can see jobs list with featured and can filter user accoring to user need. This project is from frontendmentor challenge section.
+   - Site live url [https://projectlistwithcart.netlify.app/]
+   - Technologies: HTML, CSS, JavaScript, Fetch
+     
+4. **Project 4: [Product List with Cart]**
+   - Product list with cart in which user can add to cart see their total bill remove items from cart and see success message as user confirm order. This project is from frontendmentor challenge section.
+   - Site live url [https://projectlistwithcart.netlify.app/]
+   - Technologies: HTML, CSS, JavaScript, Fetch
+  
+
 
 Explore the project folders for more details.
 
