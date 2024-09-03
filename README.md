@@ -60,7 +60,7 @@ Let's connect! Reach out for collaboration, questions, or just to chat about cod
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sudip.maharjan.31521/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudip_khattri1/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-khatri-a72a6a27b/) [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%230a0a23.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc689dafc5-d1cb-43c0-8a10-85682d08e2ed) 
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-%234ad9d9.svg?logoColor=white)](https://www.frontendmentor.io/profile/SudipKhatri036)
 [![Email](https://img.shields.io/badge/Gmail-%23f23548.svg?logo=gmail&logoColor=white)](mailto:sudipkhatri036@gmail.com)
-[Website](https://sudipkhatri.netlify.app/).
+[![Website](https://img.shields.io/badge/Portfolio-%23FFA500.svg?logoColor=white)](https://sudipkhatri.netlify.app/).
 
 
 Feel free to open issues or submit pull requests for suggestions and improvements. Your feedback is appreciated!
