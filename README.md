@@ -27,23 +27,27 @@ I'm passionate about coding and started with HTML, CSS, and JavaScript.<br>🤵 
    - Blogr landing page which is responsive in all devices with responsive navbar and good looking UI. This project is from frontendmentor challenge section.
    - Site live url [https://blogr-landingpage-frontend.netlify.app/]
    - Technologies: HTML, CSS, JavaScript
+  
+3. **Project 3: [Ecommerce Product Page]**
+   - Ecommerce Product page let user increase decrease quantity of product, delete product from cart, confirm order, see full image with slider, change large image by             clicking image thumbnail.
+   - Site live url [https://ecommerceproductpagefrontend.netlify.app/]
+   - Technologies: React, Toastify, Module CSS
 
-3. **Project 3: [Github User Search App]**
+4. **Project 4: [Github User Search App]**
    - Github user search app React project in which user can search for github users using their username see error state loading state light and dark mode with user preference. This project is from Frontendmentor challenge.
    - Site live url [https://githubusersearchapp.netlify.app/]
    - Technologies: React, React-icons, Fetch, Github Rest api
      
-4. **Project 4: [Job listing]**
+5. **Project 5: [Job listing]**
    - Job Listing project in which user can see jobs list with featured and can filter user accoring to user need. This project is from frontendmentor challenge section.
    - Site live url [https://projectlistwithcart.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
      
-5. **Project 5: [Product List with Cart]**
+6. **Project 6: [Product List with Cart]**
    - Product list with cart in which user can add to cart see their total bill remove items from cart and see success message as user confirm order. This project is from frontendmentor challenge section.
    - Site live url [https://projectlistwithcart.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
   
-
 
 Explore the project folders for more details.
 
