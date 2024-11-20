@@ -47,7 +47,7 @@ I'm passionate about coding and started with HTML, CSS, and JavaScript.<br>🤵 
      
 6. **Project 6: [Job listing]**
    - Job Listing project in which user can see jobs list with featured and can filter user accoring to user need. This project is from frontendmentor challenge section.
-   - Site live url [https://projectlistwithcart.netlify.app/]
+   - Site live url [https://joblistingfrontend.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
      
 7. **Project 7: [Product List with Cart]**
