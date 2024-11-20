@@ -18,32 +18,39 @@ I'm passionate about coding and started with HTML, CSS, and JavaScript.<br>🤵 
 
 ## Projects
 
-1. **Project 1: [Crud Profile App]**
+1. **Project 1: [Nectar Digit V2]**
+   - Multi Page Website
+   - Site live url [https://nectarfrontendv2.netlify.app/]
+   - Technologies: React, React-router, Toastify, Bootstrap
+
+2. **Project 2: [Mr Holding]**
+   - Multi Page Website
+   - Site live url [https://mountroyal.netlify.app/]
+   - Technologies: React, React-router, FramerMotion
+
+
+3. **Project 3: [Crud Profile App]**
    - Crud Profile app lets you add profile, edit and delete profile with pagination view, full page view with form submission message, Validation and more to add...
    - Site live url [https://crudprofileapp.netlify.app/]
    - Technologies: React, Formik, Yup Validation, React-router, Toastify
 
-2. **Project 2: [Blogr Landing Page]**
-   - Blogr landing page which is responsive in all devices with responsive navbar and good looking UI. This project is from frontendmentor challenge section.
-   - Site live url [https://blogr-landingpage-frontend.netlify.app/]
-   - Technologies: HTML, CSS, JavaScript
   
-3. **Project 3: [Ecommerce Product Page]**
+4. **Project 4: [Ecommerce Product Page]**
    - Ecommerce Product page let user increase decrease quantity of product, delete product from cart, confirm order, see full image with slider, change large image by             clicking image thumbnail.
    - Site live url [https://ecommerceproductpagefrontend.netlify.app/]
    - Technologies: React, Toastify, Module CSS
 
-4. **Project 4: [Github User Search App]**
+5. **Project 5: [Github User Search App]**
    - Github user search app React project in which user can search for github users using their username see error state loading state light and dark mode with user preference. This project is from Frontendmentor challenge.
    - Site live url [https://githubusersearchapp.netlify.app/]
    - Technologies: React, React-icons, Fetch, Github Rest api
      
-5. **Project 5: [Job listing]**
+6. **Project 6: [Job listing]**
    - Job Listing project in which user can see jobs list with featured and can filter user accoring to user need. This project is from frontendmentor challenge section.
    - Site live url [https://projectlistwithcart.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
      
-6. **Project 6: [Product List with Cart]**
+7. **Project 7: [Product List with Cart]**
    - Product list with cart in which user can add to cart see their total bill remove items from cart and see success message as user confirm order. This project is from frontendmentor challenge section.
    - Site live url [https://projectlistwithcart.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
