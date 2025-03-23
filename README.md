@@ -22,35 +22,43 @@ I'm passionate about coding and started with HTML, CSS, and JavaScript.<br>🤵 
    - Multi Page Website
    - Site live url [https://nectarfrontendv2.netlify.app/]
    - Technologies: React, React-router, Toastify, Bootstrap
+  
+2. **Project 2: [Entertainment App]**
+   - Multi page entertainment app
+   - Site live url [https://entertainment-app-drab.vercel.app/]
+   - Features like: Swiper, movie/series detail, hover effect, grid layout
+   - Authentication and bookmark feature = Ongoing and improving
+   - Many features to add like profile edit upload profile picture
+   - Implemented backend features also using MERN
 
-2. **Project 2: [Mr Holding]**
+3. **Project 3: [Mr Holding]**
    - Multi Page Website
    - Site live url [https://mountroyal.netlify.app/]
    - Technologies: React, React-router, FramerMotion
 
 
-3. **Project 3: [Crud Profile App]**
+4. **Project 4: [Crud Profile App]**
    - Crud Profile app lets you add profile, edit and delete profile with pagination view, full page view with form submission message, Validation and more to add...
    - Site live url [https://crudprofileapp.netlify.app/]
    - Technologies: React, Formik, Yup Validation, React-router, Toastify
 
   
-4. **Project 4: [Ecommerce Product Page]**
+5. **Project 5: [Ecommerce Product Page]**
    - Ecommerce Product page let user increase decrease quantity of product, delete product from cart, confirm order, see full image with slider, change large image by             clicking image thumbnail.
    - Site live url [https://ecommerceproductpagefrontend.netlify.app/]
    - Technologies: React, Toastify, Module CSS
 
-5. **Project 5: [Github User Search App]**
+6. **Project 6: [Github User Search App]**
    - Github user search app React project in which user can search for github users using their username see error state loading state light and dark mode with user preference. This project is from Frontendmentor challenge.
    - Site live url [https://githubusersearchapp.netlify.app/]
    - Technologies: React, React-icons, Fetch, Github Rest api
      
-6. **Project 6: [Job listing]**
+7. **Project 7: [Job listing]**
    - Job Listing project in which user can see jobs list with featured and can filter user accoring to user need. This project is from frontendmentor challenge section.
    - Site live url [https://joblistingfrontend.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
      
-7. **Project 7: [Product List with Cart]**
+8. **Project 8: [Product List with Cart]**
    - Product list with cart in which user can add to cart see their total bill remove items from cart and see success message as user confirm order. This project is from frontendmentor challenge section.
    - Site live url [https://projectlistwithcart.netlify.app/]
    - Technologies: HTML, CSS, JavaScript, Fetch
@@ -68,7 +76,7 @@ Explore the project folders for more details.
 
 Let's connect! Reach out for collaboration, questions, or just to chat about coding:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sudip.maharjan.31521/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudip_khattri1/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-khatri-a72a6a27b/) [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%230a0a23.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc689dafc5-d1cb-43c0-8a10-85682d08e2ed) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudip-khatri-a72a6a27b/) [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%230a0a23.svg?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/fcc689dafc5-d1cb-43c0-8a10-85682d08e2ed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sudip.maharjan.31521/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sudip_khattri1/?hl=en) 
 [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-%234ad9d9.svg?logoColor=white)](https://www.frontendmentor.io/profile/SudipKhatri036)
 [![Email](https://img.shields.io/badge/Gmail-%23f23548.svg?logo=gmail&logoColor=white)](mailto:sudipkhatri036@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-%23FFA500.svg?logoColor=white)](https://sudipkhatri.netlify.app/).
